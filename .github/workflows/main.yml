@@ -1,1 +1,0 @@
-gcc @SOULCRACK.c -o soul -lpthread
